@@ -1,7 +1,7 @@
 # GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation, NeurIPS 2024
 
 ![teaser](assets/teaser.png)
-[Phillip Y. Lee](https://phillipinseoul.github.io/)\*, [Taehoon Yoon](https://github.com/taehoon-yoon)\*, [Minhyuk Sung](https://mhsung.github.io/) (* Denotes equal contribution)
+[Phillip Y. Lee](https://phillipinseoul.github.io/)\*, [Taehoon Yoon](https://github.com/taehoon-yoon)\*, [Minhyuk Sung](https://mhsung.github.io/) (* equal contribution)
 
 | [**Website**](https://groundit-visualai.github.io/) | [**Paper**] | [**arXiv**] |
 
