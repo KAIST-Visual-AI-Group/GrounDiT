@@ -1,2 +1,1 @@
-# GrounDiT
-Official implementation of GrounDiT  (NeurIPS 2024)
+# GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation, NeurIPS 2024
