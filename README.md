@@ -8,7 +8,8 @@
 <br />
 
 ## Introduction
-This repository contains the official implementation of **GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation**. <br>
+This repository contains the official implementation of **GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation**. <br><br>
+**GrounDiT** is a training-free method for spatial grounding in text-to-image generation, using Diffusion Transformers (DiT) to generate precise, controllable images based on user-specified bounding boxes.
 More results can be viewed on our [project page](https://groundit-visualai.github.io/).
 
 [//]: # (### Abstract)
