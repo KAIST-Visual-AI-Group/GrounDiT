@@ -36,10 +36,10 @@ approaches.
 
 ## Citation
 ```
-@article{lee2024groundit,
-  title = {GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation},
-  author = {Lee, Phillip Y. and Yoon, Taehoon and Sung, Minhyuk},
-  year = {2024},
-  journal = {arXiv:xxxx.xxxxx},
+@inproceedings{lee2024groundit,
+    title={GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation},
+    author={Phillip Y. Lee and Taehoon Yoon and Minhyuk Sung},
+    booktitle={Advances in Neural Information Processing Systems},
+    year={2024}
 }
 ```
