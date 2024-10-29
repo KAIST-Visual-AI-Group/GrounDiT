@@ -3,7 +3,7 @@
 ![teaser](assets/teaser.png)
 [Phillip Y. Lee](https://phillipinseoul.github.io/)\*, [Taehoon Yoon](https://github.com/taehoon-yoon)\*, [Minhyuk Sung](https://mhsung.github.io/) (* equal contribution)
 
-| [**Website**](https://groundit-visualai.github.io/) | [**Paper**] | [**arXiv**] |
+| [**Website**](https://groundit-visualai.github.io/) | [**Paper**](https://groundit-visualai.github.io/static/groundit_paper.pdf) | [**arXiv**](https://arxiv.org/abs/2410.20474) |
 
 <br />
 
