@@ -166,9 +166,7 @@ You can find the example of input data format in the ```config.json``` file.
 </details>
 
 ## 🙏 Acknowledgements
-This code is heavily based on diffusers library, and the official code for [PixArt-α](https://github.com/PixArt-alpha/PixArt-alpha) and [R&B](https://github.com/StevenShaw1999/RnB). 
-
-We sincerely thank the authors for open-sourcing their code. 
+This code is heavily based on the [diffusers](https://github.com/huggingface/diffusers) library, and the official code for [PixArt-α](https://github.com/PixArt-alpha/PixArt-alpha) and [R&B](https://github.com/StevenShaw1999/RnB). We sincerely thank the authors for open-sourcing their code. 
 
 ## 🎓 Citation
 ```
