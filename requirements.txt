@@ -1,0 +1,8 @@
+diffusers 
+transformers 
+accelerate 
+safetensors 
+sentencepiece
+numpy
+tqdm
+pillow
