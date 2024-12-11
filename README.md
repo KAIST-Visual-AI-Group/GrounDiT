@@ -56,7 +56,7 @@ python main.py
 | `--model_version`        | Model version to use. Options: `512` or `1024`.                             |
 | `--input_config_path`    | Path to the input configuration file.                                       |
 | `--gpu_id`               | GPU ID to use for inference Default: `0`                                    |
-| `--seed`                 | Random seed for reproducibility.                                            |
+| `--seed`                 | Random seed.                                                                |
 | `--num_inference_steps`  | Number of inference steps to perform. Default: `50`                         |
 | `--groundit_gamma`       | Apply GrounDiT for the initial γ% steps. Default: `0.5`                     |
 
