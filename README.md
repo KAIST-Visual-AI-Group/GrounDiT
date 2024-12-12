@@ -40,7 +40,7 @@ approaches.
 
 ## 🔥 Inference
 
-ipynb demo is available at ```groundit_demo.ipynb```.
+Jupyter Notebook demo is available at ```groundit_demo.ipynb```.
 
 Or you can generate image via following command
 
